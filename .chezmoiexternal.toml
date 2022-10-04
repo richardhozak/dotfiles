@@ -2,3 +2,9 @@
     type = "git-repo"
     url = "https://github.com/eendroroy/alacritty-theme.git"
     refreshPeriod = "168h"
+    
+[".fzf"]
+    type = "git-repo"
+    url = "https://github.com/junegunn/fzf.git"
+    refreshPeriod = "168h"
+
