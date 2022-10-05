@@ -1,0 +1,8 @@
+theme = "dark_plus"
+
+[editor]
+line-number = "relative"
+
+[keys.normal]
+"backspace" = { c = [":config-open"], s = [":w", ":config-reload"] }
+

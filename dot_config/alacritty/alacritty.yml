@@ -1,2 +1,3 @@
 import:
-  - ~/.config/alacritty/alacritty-theme/themes/gruvbox_dark.yaml
+  # - ~/.config/alacritty/alacritty-theme/themes/gruvbox_dark.yaml
+  - ~/.config/alacritty/vscode_terminal.yaml
